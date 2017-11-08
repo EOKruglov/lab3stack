@@ -1,0 +1,15 @@
+﻿  TStack.cpp
+c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tstack.cpp(27): error C2955: 'TStack': use of class template requires template argument list
+  c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tstack.h(3): note: see declaration of 'TStack'
+c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tstack.cpp(41): error C2244: 'TStack::operator =': unable to match function definition to an existing declaration
+  c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tstack.cpp(27): note: see declaration of 'TStack::operator ='
+  c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tstack.cpp(41): note: definition
+  c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tstack.cpp(41): note: 'TStack<T> &TStack::operator =(const TStack &)'
+  c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tstack.cpp(41): note: existing declarations
+  c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tstack.cpp(41): note: 'TStack<T> &TStack<T>::operator =(const TStack<T> &)'
+  TCalculator.cpp
+c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tcalculator.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tcalculator.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tcalculator.cpp(82): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\эльдорадо\documents\git\lab3\lab3stack\lab3\lab3\tcalculator.cpp(50): warning C4715: 'TCalculator::priority': not all control paths return a value
